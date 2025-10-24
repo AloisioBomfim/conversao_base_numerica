@@ -1,0 +1,16 @@
+[tool]
+name = "Conversor"
+version = "0.1.0"
+description = "Um conversor entre decimal e binário com interface interativa."
+authors = ["Seu Nome <seuemail@example.com>"]
+license = "MIT"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+dependencies = []
+
+[tool.pyinstaller]
+# Configurações específicas do PyInstaller podem ser adicionadas aqui, se necessário.

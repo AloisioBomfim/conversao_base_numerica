@@ -1,0 +1,9 @@
+# requirements.txt
+# Este arquivo lista as dependências do projeto. Para este projeto, não há dependências externas necessárias, mas você pode adicionar pacotes conforme necessário.
+
+# Exemplo de dependências que podem ser adicionadas no futuro:
+# - pyinstaller  # Para criar executáveis
+# - qualquer_outro_pacote  # Adicione aqui outros pacotes que você possa precisar
+
+# Para instalar as dependências, use o comando:
+# pip install -r requirements.txt
